@@ -1,4 +1,14 @@
 ### Hi there 👋
+You can call me Bayhaqi, I was still in high school. I am 16 years old, 
+ITNSA is my role specifically Linux Server, network security and cloud computing.
+But I never stop to learn. I also like learning programming languages because it's cool. 
+who likes the OpenSource Program :penguin:
+
+### Quick overview
+- GitHub stats:  
+ ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kyuubang&show_icons=True) 
+ 
+- 🌱 I’m currently learning Docker🐋, Python :snake:
 
 <!--
 **Kyuubang/Kyuubang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
