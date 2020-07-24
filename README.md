@@ -1,3 +1,5 @@
+<img align="right" src="https://img.icons8.com/doodle/320/000000/plant-under-sun--v1.png" />
+
 ## Hi there 👋
 You can call me Bayhaqi, I was still in high school. I am 16 years old, 
 ITNSA is my role specifically Linux Server, network security and cloud computing.
