@@ -6,7 +6,7 @@ who likes the OpenSource Program :penguin:
 
 ### Quick overview
 - GitHub stats:  
- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kyuubang&show_icons=True) 
+ ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kyuubang&show_icons=True&theme=merko) 
  
 - 🌱 I’m currently learning Docker🐋, Python :snake:
 <br />
