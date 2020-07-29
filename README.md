@@ -16,10 +16,10 @@ who likes the OpenSource Program :penguin:
 <p align="center">
  <strong>__Social Media__</strong>
 <p align="center">
-<a href="https://www.hackerrank.com/Kyuubang"><img src="https://img.icons8.com/windows/32/000000/hackerrank.png"/></a>
-<a href="https://bitbucket.org/Kyuubang"><img src="https://img.icons8.com/windows/32/000000/bitbucket.png"/></a>
-<a href="https://www.sololearn.com/Profile/10713984"><img src="https://img.icons8.com/android/24/000000/source-code.png"/></a>
-<a href=#><img src="https://img.icons8.com/material-outlined/24/000000/bookmark.png"/></a>
+<a href="#"><img src="https://img.icons8.com/clouds/48/000000/github.png"/></a>
+<a href="#"><img src="https://img.icons8.com/clouds/48/000000/linkedin.png"/></a>
+<a href="#"><img src="https://img.icons8.com/clouds/100/000000/discord.png"/></a>
+<a href=#><img src="https://img.icons8.com/clouds/100/000000/discord.png"/></a>
 </p>
 <!--
 **Kyuubang/Kyuubang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
