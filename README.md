@@ -18,8 +18,8 @@ who likes the OpenSource Program :penguin:
 <p align="center">
 <a href="#"><img src="https://img.icons8.com/clouds/48/000000/github.png"/></a>
 <a href="#"><img src="https://img.icons8.com/clouds/48/000000/linkedin.png"/></a>
-<a href="#"><img src="https://img.icons8.com/clouds/100/000000/discord.png"/></a>
-<a href=#><img src="https://img.icons8.com/clouds/100/000000/discord.png"/></a>
+<a href="#"><img src="https://img.icons8.com/clouds/48/000000/quizlet.png"/></a>
+<a href=#><img src="https://img.icons8.com/clouds/48/000000/twitter-circled.png"/></a>
 </p>
 <!--
 **Kyuubang/Kyuubang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
