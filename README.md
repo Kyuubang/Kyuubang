@@ -11,9 +11,6 @@ who likes the OpenSource Program :penguin:
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Kyuubang&count_private=true&show_icons=true&theme=merko">
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Kyuubang&layout=compact&theme=merko">
-</a>
 
 - 🌱 I’m currently learning Docker🐋, Python :snake:
 <br />
