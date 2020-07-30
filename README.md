@@ -8,10 +8,13 @@ who likes the OpenSource Program :penguin:
 
 ### Quick overview
 - :octocat: GitHub stats:
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Kyuubang&count_private=true&show_icons=true&theme=merko">
+ <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Kyuubang&count_private=true&show_icons=true&theme=merko">
 </a>
+
 <br />
+
 - 🌱 I’m currently learning Docker🐋, Python :snake:
 <br />
 <p align="center">
