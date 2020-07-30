@@ -14,7 +14,6 @@ who likes the OpenSource Program :penguin:
 <br />
 - 🌱 I’m currently learning Docker🐋, Python :snake:
 <br />
-<br />
 <p align="center">
  <strong>__Social Media__</strong>
 <p align="center">
