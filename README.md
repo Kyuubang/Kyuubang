@@ -7,9 +7,14 @@ But I never stop to learn. I also like learning programming languages because it
 who likes the OpenSource Program :penguin:
 
 ### Quick overview
-- :octocat: GitHub stats:  
- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kyuubang&show_icons=True&theme=merko) 
- 
+- :octocat: GitHub stats:
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img src="https://github-readme-stats.vercel.app/api?username=Kyuubang&count_private=true&show_icons=true&theme=merkohttps://github-readme-stats.vercel.app/api?username=Kyuubang&count_private=true&show_icons=true&theme=merko">
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kyuubang&layout=compact&theme=merko">
+</a>
+
 - 🌱 I’m currently learning Docker🐋, Python :snake:
 <br />
 <br />
