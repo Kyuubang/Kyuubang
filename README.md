@@ -20,7 +20,7 @@ who likes the OpenSource Program :penguin:
 <p align="center">
  <strong>__Social Media__</strong>
 <p align="center">
-<a href="#"><img src="https://img.icons8.com/clouds/48/000000/github.png"/></a>
+<a href="https://gist.github.com/Kyuubang"><img src="https://img.icons8.com/clouds/48/000000/github.png"/></a>
 <a href="#"><img src="https://img.icons8.com/clouds/48/000000/linkedin.png"/></a>
 <a href="#"><img src="https://img.icons8.com/clouds/48/000000/quizlet.png"/></a>
 <a href=#><img src="https://img.icons8.com/clouds/48/000000/twitter-circled.png"/></a>
