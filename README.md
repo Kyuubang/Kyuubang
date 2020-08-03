@@ -1,4 +1,4 @@
-<a href=#><img align="right" src="https://img.icons8.com/doodle/280/000000/plant-under-sun--v1.png"/></a>
+<a href=#><img align="right" src="https://github.com/Kyuubang/Kyuubang/blob/master/gummy-camping.png" width=40%/></a>
 
 ## Hi there 👋
 You can call me Bayhaqi, I was still in high school. I am 16 years old, 
