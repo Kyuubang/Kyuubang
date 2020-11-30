@@ -1,7 +1,7 @@
 <a href="https://icons8.com/"><img align="right" src="https://github.com/Kyuubang/Kyuubang/blob/master/gummy-camping.png" width=35%/></a>
 
 ## Hi there 👋
-You can call me Bayhaqi, I was still in high school. I am 16 years old, 
+You can call me Bayhaqi, I was still in high school.
 ITNSA is my role specifically Linux Server, network security and cloud computing.
 But I never stop to learn. I also like learning programming languages because it's cool. 
 who likes the OpenSource Program :penguin:
