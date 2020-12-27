@@ -13,9 +13,14 @@ who likes the OpenSource Program :penguin:
  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Kyuubang&count_private=true&show_icons=true&theme=gotham">
 </a>
 <br />
+
 <br />
 
 - 🌱 I’m currently learning Docker🐋, Python :snake:
+
+<a href="https://www.codewars.com/users/Kyuubang/stats">
+ <img src="https://www.codewars.com/users/Kyuubang/badges/micro">
+</a>
 <br />
 <p align="center">
  <strong>__Social Media__</strong>
