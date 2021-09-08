@@ -1,4 +1,4 @@
-<!--<a href="https://icons8.com/"><img align="right" src="https://github.com/Kyuubang/Kyuubang/blob/master/gummy-camping.png" width=35%/></a>-->
+<a href="https://piskelapp.com/"><img align="right" src="https://github.com/Kyuubang/Kyuubang/blob/master/poison-320.gif" width=25% alt="Pixel Animation Created with piskelapp"/></a>
 
 ## Hi there 👋
 You can call me Bayhaqi, I was still in high school.<br />
