@@ -1,4 +1,4 @@
-<a href="https://piskelapp.com/"><img align="right" src="https://github.com/Kyuubang/Kyuubang/blob/master/poison-320.gif" width=25% alt="Pixel Animation Created with piskelapp"/></a>
+<a href="https://piskelapp.com/"><img align="right" src="https://github.com/Kyuubang/Kyuubang/blob/master/poison-320.gif" width=30% alt="Pixel Animation Created with piskelapp"/></a>
 
 ## Hi there 👋
 You can call me Bayhaqi, I was still in high school.<br />
