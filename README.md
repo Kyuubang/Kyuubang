@@ -1,9 +1,9 @@
 <a href="https://piskelapp.com/"><img align="right" src="https://github.com/Kyuubang/Kyuubang/blob/master/poison-320.gif" width=30% alt="Pixel Animation Created with piskelapp"/></a>
 
 ## Hi there 👋
-You can call me Bayhaqi, I was still in high school.<br />
-ITNSA is my role specifically Linux Server, network security and cloud computing. <br />
-But I never stop to learn. I also like learning programming languages because it's cool. <br /> 
+You can call me Bayhaqi, I was still in high school.
+ITNSA is my role specifically Linux Server, network security and cloud computing.
+But I never stop to learn. I also like learning programming languages because it's cool. <br />
 who likes the OpenSource Program :penguin:
 
 ### Quick overview
