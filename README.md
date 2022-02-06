@@ -1,10 +1,7 @@
 <a href="https://www.piskelapp.com/"><img align="right" src="https://github.com/Kyuubang/Kyuubang/blob/master/poison-320.gif" width=30% alt="Pixel Animation Created with piskelapp"/></a>
 
 ## Hi there 👋
-You can call me Bayhaqi, I was still in high school.
-ITNSA is my role specifically Linux Server, network security and cloud computing.
-But I never stop to learn. I also like learning programming languages because it's cool. <br />
-who likes the OpenSource Program :penguin:
+Experienced 2 Years in System Administrator field. specifically Linux Server, network security and cloud computing. like to share as trainer and mentor for NEVTIK Academy in ITNSA and CyberSecurity Class. I also like programming especially for python and bash scripting because they help alot in shorten working time. Who Like OpenSource Program, F/LOOS Enthusiast. :penguin:
 
 ### Quick overview
 - :octocat: GitHub stats:
