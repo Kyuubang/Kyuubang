@@ -1,7 +1,7 @@
 <a href="https://www.piskelapp.com/"><img align="right" src="https://github.com/Kyuubang/Kyuubang/blob/master/poison-320.gif" width=30% alt="Pixel Animation Created with piskelapp"/></a>
 
 ## Hi there 👋
-Experienced 2 Years in System Administrator field. specifically Linux Server, network security and cloud computing. like to share as trainer and mentor for NEVTIK Academy in ITNSA and CyberSecurity Class. I also like programming especially for python and bash scripting because they help alot in shorten working time. Who Like OpenSource Program, F/LOOS Enthusiast. :penguin:
+Experienced 2 Years in System Administrator field. specifically Linux Server, network security and cloud computing. like to share as trainer and mentor for [NEVTIK Academy](https://nevtik.org) in ITNSA and CyberSecurity Class. I also like programming especially for python and bash scripting because they help alot in shorten working time. Who Like OpenSource Program, F/LOOS Enthusiast. :penguin:
 
 ### Quick overview
 - :octocat: GitHub stats:
