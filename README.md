@@ -1,5 +1,5 @@
 <!-- <a href="https://unsplash.com/photos/JV78PVf3gGI"><img src="https://github.com/Kyuubang/Kyuubang/blob/master/sergey-pesterev-banner.jpg" alt="Photo by Sergey Pesterev on Unsplash"/></a> -->
-[![@kyuubang's Holopin board](https://holopin.io/api/user/board?user=kyuubang)](https://holopin.io/@kyuubang)
+[![An image of @kyuubang's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kyuubang)](https://holopin.io/@kyuubang)
 <a href="https://www.piskelapp.com/"><img align="right" src="https://github.com/Kyuubang/Kyuubang/blob/master/poison-320.gif" width=30% alt="Pixel Animation Created with piskelapp"/></a>
 
 ## Hi there 👋
