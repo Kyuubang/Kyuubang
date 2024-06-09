@@ -1,11 +1,25 @@
 <!-- <a href="https://unsplash.com/photos/JV78PVf3gGI"><img src="https://github.com/Kyuubang/Kyuubang/blob/master/sergey-pesterev-banner.jpg" alt="Photo by Sergey Pesterev on Unsplash"/></a> -->
 [![An image of @kyuubang's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kyuubang)](https://holopin.io/@kyuubang)
-<a href="https://www.piskelapp.com/"><img align="right" src="https://github.com/Kyuubang/Kyuubang/blob/master/poison-320.gif" width=30% alt="Pixel Animation Created with piskelapp"/></a>
+<!-- <a href="https://www.piskelapp.com/"><img align="right" src="https://github.com/Kyuubang/Kyuubang/blob/master/poison-320.gif" width=30% alt="Pixel Animation Created with piskelapp"/></a> -->
 
-## Hi there 👋
-Experienced 2 Years in System Administrator field. specifically Linux Server, network security and cloud computing. like to share as trainer and mentor for [NEVTIK Academy](https://nevtik.org) in ITNSA and CyberSecurity Class. I also like programming especially for python and bash scripting because they help alot in shorten working time. Who Like OpenSource Program, F/LOOS Enthusiast. :penguin:
+**Hi there, I'm Bay** 👋
 
-### Quick overview
+Welcome to my GitHub profile! I'm a passionate DevOps/SRE Engineer with a focus on automation, cloud infrastructure, and reliability-oriented engineering.
+
+- 🤔 Interested in DevOps/SRE/Platform Engineering stuff.
+- 🔭 Used to be a DevOps Engineer at Nawatech.
+- 🌱 Currently learning Observability (e.g Open-telemetery, LGTM stack)
+- 📚 Reading list (Site Reliability Engineering: How Google Runs Production Systems)
+- 📃 Holdings certified: CKA (2026), AWS SAA (2026), MTCSE (2025), MTCNA (2025), GHAS (2027) 
+- 💬 Ask me about: Linux, GitHub Advanced Security, Kubernetes, Cloud Native
+- 💪 "Stay hungry, stay foolish." – Steve Jobs
+
+---
+
+
+
+
+<!-- ### Quick overview
 - :octocat: GitHub stats:
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -29,6 +43,10 @@ Experienced 2 Years in System Administrator field. specifically Linux Server, ne
 <a href="#"><img src="https://img.icons8.com/clouds/48/000000/quizlet.png"/></a>
 <a href=#><img src="https://img.icons8.com/clouds/48/000000/twitter-circled.png"/></a>
 </p>
+
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile) -->
+
 <!--
 **Kyuubang/Kyuubang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
