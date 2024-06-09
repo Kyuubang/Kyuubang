@@ -2,7 +2,7 @@
 [![An image of @kyuubang's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kyuubang)](https://holopin.io/@kyuubang)
 <!-- <a href="https://www.piskelapp.com/"><img align="right" src="https://github.com/Kyuubang/Kyuubang/blob/master/poison-320.gif" width=30% alt="Pixel Animation Created with piskelapp"/></a> -->
 
-**Hi there, I'm Bay** 👋
+## Hi there, I'm Bay 👋
 
 Welcome to my GitHub profile! I'm a passionate DevOps/SRE Engineer with a focus on automation, cloud infrastructure, and reliability-oriented engineering.
 
@@ -16,6 +16,9 @@ Welcome to my GitHub profile! I'm a passionate DevOps/SRE Engineer with a focus 
 
 ---
 
+<p  align="center">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=Kyuubang.Kyuubang" alt="visitor badge"/>       
+</p>
 
 
 
