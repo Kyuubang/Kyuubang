@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a passionate DevOps/SRE Engineer with a focus 
 - 🔭 Used to be a DevOps Engineer at [Nawatech](https://nawatech.co).
 - 🌱 Currently learning Observability (e.g Open-telemetery, LGTM stack)
 - 📚 Reading list (Site Reliability Engineering: How Google Runs Production Systems)
-- 📃 Certifications held: CKA (2026), AWS SAA (2026), MTCSE (2025), MTCNA (2025), GHAS (2027), GHA (2027)
+- 📃 Certifications held: CKA (2026), AWS SAA (2026), MTCSE (2025), MTCNA (2025), GHAS (2027), GHA (2027), GHC (2027)
 - 💬 Ask me about: Linux, GitHub Advanced Security, Kubernetes, Cloud Native
 - 💪 "Stay hungry, stay foolish." – Steve Jobs
 
